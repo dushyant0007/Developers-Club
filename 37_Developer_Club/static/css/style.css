@@ -1,0 +1,22 @@
+.main{
+
+background-size: cover;
+height: 40vh;
+color: rgb(0, 0, 0);
+background-image:url("../images/home.jpg");
+text-align: center;
+
+}
+.text{
+  padding-top: 30%;
+}
+.form{
+padding-top: 10%;
+padding-left: 35%;
+text-align: center;
+width: 65%;
+
+}
+.input{
+  padding: 8px;
+}
