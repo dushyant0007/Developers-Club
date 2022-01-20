@@ -3,7 +3,7 @@ autopep8==1.6.0
 beautifulsoup4==4.10.0
 betterproto==1.2.5
 bs4==0.0.1
-
+click==7.1.2
 
 cached-property==1.5.2
 cachetools==4.2.2
@@ -67,7 +67,7 @@ queue-fetcher==2.0.9
 queue-front==0.7.2
 queue-map-reduce-relleums==1.0.5
 queue-messaging==0.3.5
-queue-mfc-manager==0.4.4
+
 queue-system==0.0.1
 queue-tweets==1.0.1
 queue-util==3.2.2
