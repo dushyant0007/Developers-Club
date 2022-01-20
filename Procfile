@@ -1,1 +1,1 @@
-web: application main:app
+web:flask main:app
