@@ -82,4 +82,4 @@ def dashboard():
  
 if __name__ == "__main__":
     db_object.create_all()
-    app.run(debug=False)
+    app.run(host='0.0.0.0', port=5000)
